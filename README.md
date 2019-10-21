@@ -5,9 +5,9 @@
 [![PyPI - Status](https://img.shields.io/pypi/status/pywebcopy.svg?color=9cf)](https://pypi.org/project/pywebcopy/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e8e86b7187f6443abfcf7d943d2e7cca)](https://app.codacy.com/app/rajatomar788/pywebcopy?utm_source=github.com&utm_medium=referral&utm_content=rajatomar788/pywebcopy&utm_campaign=Badge_Grade_Dashboard)
 
-`Created By : Raja Tomar`
+`Created By : Dimuthu Kasun`
 `License : MIT`
-`Email: rajatomar788@gmail.com`
+`Email: kasunwpdimuthu@gmail.com`
 
 Python websites and webpages cloning at ease.
 Web Scraping or Saving Complete webpages and websites with python.
@@ -33,7 +33,7 @@ Why it's great? because it -
   - pyquery
   - requests_html
 
-Email me at `rajatomar788@gmail.com` of any query :)
+Email me at `kasunwpdimuthu@gmail.com` of any query :)
 
 ## 1.1 Installation
 
